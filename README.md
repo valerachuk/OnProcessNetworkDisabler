@@ -16,7 +16,7 @@ proc: SnippingTool notepad
 
 - **msgBoxes** [optional] - show info and error messages in MessageBoxes.
   - Such as `You have to write processes in pnd.cfg` if list of processes is empty.
-  - Or `Disabled 2 interfaces` when network adapters was disabled.
+  - Or `Disabled 2 interfaces` when network adapters were disabled.
 - **delay: {integer}** [optional] - delay between checks of running processes in milliseconds. Default value is 2000 ms.
 - **proc: {processName1} {processName2}** [required] - list of processes. When any of them is running network adapters will be disabled.
 
