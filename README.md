@@ -1,6 +1,6 @@
 # OnProcessNetworkDisabler
 
-OnProcessNetworkDisabler is a simple utility written on C# that disables all enabled network adapters when any of specified processes are running. Disabled network adapters will be enabled when processes are not running.
+OnProcessNetworkDisabler is a simple utility written in C# that disables all enabled network adapters when any of specified processes are running. Disabled network adapters will be enabled when processes are not running.
 
 ## Table of contetnts
 
